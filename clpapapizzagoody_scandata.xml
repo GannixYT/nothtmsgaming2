@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>300</dpi>
+    <bookId>ugsfiles</bookId>
+    <leafCount>1</leafCount>
+    <scanDataVersion>5</scanDataVersion>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2550</origWidth>
+      <origHeight>3301</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2550</w>
+        <h>3301</h>
+      </cropBox>
+      <ppi>300</ppi>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>
